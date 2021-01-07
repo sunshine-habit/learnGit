@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("hello git!");
 		System.out.println("perfect!!");
 		System.out.println("add third");
+		System.out.println("oh my god");
 	}
 
 }
